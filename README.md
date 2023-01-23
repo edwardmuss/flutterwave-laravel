@@ -1,11 +1,11 @@
-# Flutterwave Package for Laravel php v5-8)
+# Flutterwave Package for PHP Laravel)
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 [![Total Downloads][ico-downloads]][link-downloads]
 
 
-> Implement Flutterwave Rave payment gateway easily with Laravel
+> Implement Flutterwave Rave payment gateway easily with Laravel framework
 
 - Go to [Flutterwave](https://dashboard.flutterwave.com/dashboard/settings/apis) to get your public and private key
 
